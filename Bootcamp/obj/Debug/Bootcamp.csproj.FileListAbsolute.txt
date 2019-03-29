@@ -4,3 +4,9 @@ c:\users\rizka\documents\visual studio 2015\Projects\Bootcamp\Bootcamp\bin\Debug
 c:\users\rizka\documents\visual studio 2015\Projects\Bootcamp\Bootcamp\obj\Debug\Bootcamp.csprojResolveAssemblyReference.cache
 c:\users\rizka\documents\visual studio 2015\Projects\Bootcamp\Bootcamp\obj\Debug\Bootcamp.exe
 c:\users\rizka\documents\visual studio 2015\Projects\Bootcamp\Bootcamp\obj\Debug\Bootcamp.pdb
+C:\Users\RIZKA\documents\visual studio 2015\Projects\Bootcamp\Bootcamp\bin\Debug\EntityFramework.dll
+C:\Users\RIZKA\documents\visual studio 2015\Projects\Bootcamp\Bootcamp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RIZKA\documents\visual studio 2015\Projects\Bootcamp\Bootcamp\bin\Debug\EntityFramework.xml
+C:\Users\RIZKA\documents\visual studio 2015\Projects\Bootcamp\Bootcamp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RIZKA\documents\visual studio 2015\Projects\Bootcamp\Bootcamp\obj\Debug\Bootcamp.Migrations.addingModelForeignItem.resources
+C:\Users\RIZKA\documents\visual studio 2015\Projects\Bootcamp\Bootcamp\obj\Debug\Bootcamp.csproj.GenerateResource.Cache
